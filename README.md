@@ -11,7 +11,7 @@
 1. [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Great Section Menu grav based, super source code with copy function  
 1. [beautifulhugo](https://github.com/halogenica/beautifulhugo) - Origin of LucentSpring  
 1. [cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme) - Let's have a look  
-1. [ghostwriter](https://github.com/jbub/ghostwriter) -   
+1. [ghostwriter](https://github.com/jbub/ghostwriter) - ajax and clean  
 1. [gohugo-theme-ananke](https://github.com/budparr/gohugo-theme-ananke) - stylish with gargoyles  
 1. [grid-side](https://github.com/chipsenkbeil/grid-side) - Great Docs, cool Materialize incarnation 
 1. [herring-cove](https://github.com/spf13/herring-cove) - good twitter  
