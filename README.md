@@ -35,4 +35,6 @@
   
 Do you find your fav theme not listed here? Please add an Issue, with your proposal.
 
+Find more awesome gophers [here](https://github.com/ashleymcnamara/gophers).
+
 
