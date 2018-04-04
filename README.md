@@ -3,7 +3,7 @@
 ## The best Hugo Themes of the year.  
   
   
-![mixmax.jpg](mixmax.jpg)
+![coming soon](COMING_SOON_GOPHER.png)
 ### And the nominated are:
 
 1. [hugo-theme-bleak](https://github.com/Zenithar/hugo-theme-bleak) - Great animations  
