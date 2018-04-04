@@ -33,7 +33,7 @@
 1. [hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - great dark slide.com look-a-like  
 1. [hugo-theme-wave](https://github.com/syui/hugo-theme-wave) - nice grid heatmap  
   
-Do you find your fav theme not listed here? Please add an Issue, with your proposal.
+Do you find your fav theme not listed here? Please add an Issue.
 
 Find more awesome gophers [here](https://github.com/ashleymcnamara/gophers).
 
