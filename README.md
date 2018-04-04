@@ -5,7 +5,7 @@
   
 ### And the nominated are:
 
-1. [hugo-theme-bleak](https://github.com/Zenithar/hugo-theme-bleak/tree/6633e92a9cf8fd0bffb64436d064690a687b2b69) Great animations  
+1. [hugo-theme-bleak](https://github.com/Zenithar/hugo-theme-bleak) - Great animations  
 1. "hugo-theme-docdock" Perfect Section Based Navigation  
 1. "hugo-theme-learn" Great Section Menu grav based, super source code with copy function  
 1. "beautifulhugo" Origin of LucentSpring  
